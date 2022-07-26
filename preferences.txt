@@ -1,0 +1,5 @@
+"movie": "Stalker",
+"serial": "Rick and Morty",
+"food": "ice cream, cakes",
+"season": "springtime",
+"country": "---"

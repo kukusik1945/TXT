@@ -1,0 +1,4 @@
+"Kusyk Maksym Sergeevich",
+"age": 33,
+"pets": 0,
+"salary": 800$
